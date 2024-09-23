@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde maio de 2024,<br>📚 Atualmente estou aprendendo sobre React, <br>🎯 Goals: Busco cada vez mais me aprofundar na area de TI, buscando uma oportunidade de Dev, tendo problemas reais e de grande escala, para poder adquirir mais conhecimentoa<br>🎲 Curiosidade: Atualmente trabalho como analista de TI</p>
+<p align="left">✨ Criando Bugs desde maio de 2024,<br>📚 Atualmente estou aprendendo sobre React, <br>🎯 Objetivos: Busco cada vez mais me aprofundar na area de TI, buscando uma oportunidade de Dev, tendo problemas reais e de grande escala, para poder adquirir mais conhecimentoa<br>🎲 Curiosidade: Atualmente trabalho como analista de TI</p>
 
 ###
 
