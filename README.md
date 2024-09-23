@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juanmuzyy/juanmuzyy/output/snake.svg" alt="Snake animation" />
+
 
 ###
